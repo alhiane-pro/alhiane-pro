@@ -2,9 +2,9 @@
 
 ### 🚀 Full‑Stack JavaScript Engineer • React • Node.js • TypeScript
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-Profile-0077B5?style=flat)](your-linkedin)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-Profile-0077B5?style=flat)](www.linkedin.com/in/lahcen-alhiane-61217239a)
  
- [![Email](https://img.shields.io/badge/email-<your-email>-green?style=flat)](mailto:<your-email>) 
+ [![Email](https://img.shields.io/badge/email-<your-email>-green?style=flat)](mailto:alhiane.pro@gmail.com) 
 
 I build **modern, maintainable, and high‑impact web applications** end to end. I work across the stack — from accessible, SEO‑friendly frontends to robust, scalable backends and automated deployments. I'm available for **freelance, remote, and full‑time** work.
 
@@ -68,9 +68,7 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
   
 * **Phone Number:** 0696514234
   
-* **LinkedIn:** <your-linkedin>
-
-* **Portfolio:** <your-portfolio>
+* **LinkedIn:** www.linkedin.com/in/lahcen-alhiane-61217239a
 
 * **Timezone:** Morocco (GMT+1)
 
