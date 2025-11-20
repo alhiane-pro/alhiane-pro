@@ -75,5 +75,3 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 * **Timezone:** Morocco (GMT+1)
 
 Open to **remote**, **freelance**, and **full‑time** positions.
-
-## ✨ Optional additions I can add for you
