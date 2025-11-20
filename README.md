@@ -36,8 +36,6 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 
 ## 📌 Featured projects
 
-> Replace these with real project links and short, measurable outcomes.
-
 * **project-name-1** — One‑line: what it does + tech used + measurable result (if any).
   
 * **project-name-2** — One‑line: what it does + tech used + measurable result (if any).
