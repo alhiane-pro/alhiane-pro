@@ -14,7 +14,7 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 
 * Create real‑time systems (WebSockets), SaaS platforms, marketplaces, and admin dashboards.
 
-* Improve performance, accessibility (a11y), and SEO for product sites.
+* Improve performance, accessibility, and SEO for product sites.
   
 * Automate testing and CI/CD pipelines for reliable deployments.
 
