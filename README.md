@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm **Lahcen Alhiane**
 
-Full-Stack JavaScript Engineer • React · Node.js · TypeScript — Building scalable SaaS, marketplaces & real-time apps • Open to remote, freelance, contract, and full-time roles and collaborations.
+A Full-Stack JavaScript Engineer • React · Node.js · TypeScript — Building scalable SaaS, marketplaces & real-time apps • Open to remote, freelance, contract, and full-time roles and collaborations.
 
 ## 📊 Stats & badges
 
