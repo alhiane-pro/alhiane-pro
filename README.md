@@ -4,6 +4,8 @@
 
 A Full-Stack JavaScript Engineer • React · Node.js · TypeScript — Building scalable SaaS, marketplaces & real-time apps • Open to remote, freelance, contract, and full-time roles and collaborations.
 
+---
+
 ## 📊 Stats & badges
 
 [![GitHub followers](https://img.shields.io/github/followers/alhiane-pro?label=follow\&style=social)](https://github.com/alhiane-pro)
