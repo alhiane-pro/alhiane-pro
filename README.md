@@ -1,4 +1,4 @@
-![Backend Developer](https://github.com/alhiane-pro/alhiane-pro/blob/main/assets/Banner.png)
+![Backend Developer](https://github.com/alhiane-pro/alhiane-pro/blob/main/banner.png)
 
 # 👋 Hi, I'm **Lahcen Alhiane**
 
