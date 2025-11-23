@@ -34,7 +34,7 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML&CSS, JavaScript, TypeScript, React
+* **Frontend:** HTML&CSS, JavaScript, TypeScript, React/Vite
   
 * **Backend:** Node.js, Express.js, Socket.IO, REST, Mongoose
   
