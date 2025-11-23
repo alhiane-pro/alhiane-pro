@@ -22,7 +22,7 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 
 * Build full‑stack web apps (React + Node.js) and mobile web experiences.
   
-* Design and implement APIs (REST & GraphQL) and database schemas.
+* Design and implement APIs (REST) and database schemas.
 
 * Create real‑time systems (WebSockets), SaaS platforms, marketplaces, and admin dashboards.
 
@@ -34,11 +34,11 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML&CSS, Tailwind CSS, JavaScript, TypeScript, React
+* **Frontend:** HTML&CSS, JavaScript, TypeScript, React
   
-* **Backend:** Node.js, Express.js, Socket.IO, REST, GraphQL, Prisma/TypeORM
+* **Backend:** Node.js, Express.js, Socket.IO, REST, Mongoose
   
-* **Databases:** MySQL, MongoDB
+* **Databases:** MongoDB
   
 * **DevOps / Tools:** Docker, AWS, Postman, VS Code
   
