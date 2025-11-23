@@ -1,4 +1,16 @@
+![Backend Developer](https://github.com/alhiane-pro/alhiane-pro/blob/main/assets/Banner.png)
+
 # 👋 Hi, I'm **Lahcen Alhiane**
+
+## 📊 Stats & badges (placeholders)
+
+[![GitHub followers](https://img.shields.io/github/followers/alhiane-pro?label=follow\&style=social)](https://github.com/alhiane-pro)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhiane-pro\&layout=compact)](https://github.com/alhiane-pro)
+
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhiane-pro&show_icons=true&theme=default)](https://github.com/alhiane-pro)
+
+---
 
 ### 🚀 Full-Stack JavaScript Engineer • React · Node.js · TypeScript
 
