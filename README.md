@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm **Lahcen Alhiane**
 
----
-
 ## 📊 Stats & badges
 
 [![GitHub followers](https://img.shields.io/github/followers/alhiane-pro?label=follow\&style=social)](https://github.com/alhiane-pro)
