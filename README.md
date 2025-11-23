@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm **Lahcen Alhiane**
 
+Full-Stack JavaScript Engineer • React · Node.js · TypeScript
+
 ## 📊 Stats & badges
 
 [![GitHub followers](https://img.shields.io/github/followers/alhiane-pro?label=follow\&style=social)](https://github.com/alhiane-pro)
@@ -12,9 +14,7 @@
 
 ---
 
-## About Me
-
-### 🚀 Full-Stack JavaScript Engineer • React · Node.js · TypeScript
+## 🚀 About Me
 
 I build **modern, maintainable, and high‑impact web applications** end to end. I work across the stack — from accessible, SEO‑friendly frontends to robust, scalable backends and automated deployments. I'm available for **freelance, remote, and full‑time** work.
 
