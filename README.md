@@ -1,6 +1,6 @@
 ![Backend Developer](https://github.com/alhiane-pro/alhiane-pro/blob/main/banner.png)
 
-# 👋 Hi, I'm **Lahcen Alhiane** Full-Stack JavaScript Engineer
+# 👋 Hi, I'm **Lahcen Alhiane** — Full-Stack JavaScript Engineer
 
 ## 📊 Stats & badges
 
