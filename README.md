@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm **Lahcen Alhiane**
 
-A Full-Stack JavaScript Engineer • React · Node.js · TypeScript — Building scalable SaaS, marketplaces & real-time apps • Open to remote, freelance, contract, and full-time roles and collaborations.
+A Frontend Engineer who loves turning UI ideas into fast, reliable products. I specialize in React and Next.js and I can ship full-stack JavaScript solutions when a backend is needed. I co-found and freelance with a small team called onePiece Coding (frontend + backend) where we focus on quality: unit, integration and E2E tests, CI/CD, and production deployments.
 
 ---
 
@@ -12,41 +12,43 @@ A Full-Stack JavaScript Engineer • React · Node.js · TypeScript — Building
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhiane-pro\&layout=compact)](https://github.com/alhiane-pro)
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhiane-pro&show_icons=true&theme=default)](https://github.com/alhiane-pro)
+[![Lahcen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhiane-pro&show_icons=true&theme=default)](https://github.com/alhiane-pro)
 
 ---
 
 ## 🚀 About Me
 
-I build **modern, maintainable, and high‑impact web applications** end to end. I work across the stack — from accessible, SEO‑friendly frontends to robust, scalable backends and automated deployments. I'm available for **freelance, remote, and full‑time** work.
+I build responsive, accessible, and well-tested user interfaces with **React** and **Next.js**. I ship full-stack solutions when needed (Next.js + MongoDB). 
+
+My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliable deployments.
 
 ---
 
 ## 🔭 What I do
 
-* Build full‑stack web apps (React + Node.js) and mobile web experiences.
+* Frontend development with **React**, **Next.js**, modern JavaScript (ES6+).
   
-* Design and implement APIs (REST) and database schemas.
+* Testing: **Jest**, **React Testing Library**, **Cypress** (E2E).
 
-* Create real‑time systems (WebSockets), SaaS platforms, marketplaces, and admin dashboards.
+* Backend (when needed): **Node.js**, **Next.js**; databases: **MongoDB**.
 
-* Improve performance, accessibility, and SEO for product sites.
+* CI/CD & deployments: GitHub Actions, Vercel, Docker.
   
-* Automate testing and CI/CD pipelines for reliable deployments.
+* Accessibility, SEO basics, performance tuning.
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML&CSS, JavaScript, TypeScript, React/Vite
+* **Frontend:** HTML&CSS, JavaScript, TypeScript, React & Next.js
   
-* **Backend:** Node.js, Express.js, Socket.IO, REST, Mongoose
+* **Backend:** Next.js (full-stack React framework)
   
 * **Databases:** MongoDB
   
-* **DevOps / Tools:** Docker, AWS, Postman, VS Code
+* **DevOps / Tools:** GitHub Actions, Vercel, Docker, Postman, VS Code
   
-* **Testing:** Jest, Vitest, React Testing Library
+* **Testing:** Jest, React Testing Library
 
 ---
 
@@ -74,9 +76,15 @@ I build **modern, maintainable, and high‑impact web applications** end to end.
 
 ## 📬 Contact & Availability
 
+[![Website](https://img.shields.io/badge/portfolio-website-blue)](https://your-portfolio.example.com)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-Lahcen-blue)](https://www.linkedin.com/in/lahcen-alhiane-61217239a)
+
+[![Email](https://img.shields.io/badge/email-lahcen%40example.com-green)](mailto:alhiane.pro@gmail.com)
+
 * **Email:** alhiane.pro@gmail.com | makclaaax@gmail.com
   
-* **Phone Number:** 0696514234
+* **Phone Number:** +212 696514234
   
 * **LinkedIn:** www.linkedin.com/in/lahcen-alhiane-61217239a
 
