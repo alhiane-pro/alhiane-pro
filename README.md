@@ -76,12 +76,6 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
 
 ## 📬 Contact & Availability
 
-[![Website](https://img.shields.io/badge/portfolio-website-blue)](https://your-portfolio.example.com)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-Lahcen-blue)](https://www.linkedin.com/in/lahcen-alhiane-61217239a)
-
-[![Email](https://img.shields.io/badge/email-lahcen%40example.com-green)](mailto:alhiane.pro@gmail.com)
-
 * **Email:** alhiane.pro@gmail.com | makclaaax@gmail.com
   
 * **Phone Number:** +212 696514234
