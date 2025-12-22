@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm **Lahcen Alhiane**
 
-A Frontend Engineer who loves turning UI ideas into fast, reliable products. I specialize in React and Next.js and I can ship full-stack JavaScript solutions when a backend is needed. I co-found and freelance with a small team called onePiece Coding (frontend + backend) where we focus on quality: unit, integration and E2E tests, CI/CD, and production deployments.
+A Frontend Engineer who loves turning UI ideas into fast, reliable products. I specialize in React.js and Vite. I co-found and freelance with a small team called onePiece Coding (frontend + backend) where we focus on quality: unit, integration and E2E tests, CI/CD, and production deployments.
 
 ---
 
@@ -18,7 +18,7 @@ A Frontend Engineer who loves turning UI ideas into fast, reliable products. I s
 
 ## 🚀 About Me
 
-I build responsive, accessible, and well-tested user interfaces with **React** and **Next.js**. I ship full-stack solutions when needed (Next.js + MongoDB). 
+I build responsive, accessible, and well-tested user interfaces with **React** and **Vite**.
 
 My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliable deployments.
 
@@ -26,11 +26,9 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
 
 ## 🔭 What I do
 
-* Frontend development with **React**, **Next.js**, modern JavaScript (ES6+).
+* Frontend development with **React**, **Vite**, modern JavaScript (ES6+).
   
 * Testing: **Jest**, **React Testing Library**, **Cypress** (E2E).
-
-* Backend (when needed): **Node.js**, **Next.js**; databases: **MongoDB**.
 
 * CI/CD & deployments: GitHub Actions, Vercel, Docker.
   
@@ -40,13 +38,9 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
 
 ## 🛠 Tech Stack
 
-* **Frontend:** HTML&CSS, JavaScript, TypeScript, React & Next.js
+* **Frontend:** HTML&CSS, JavaScript, TypeScript, React.js & Vite
   
-* **Backend:** Next.js (full-stack React framework)
-  
-* **Databases:** MongoDB
-  
-* **DevOps / Tools:** GitHub Actions, Vercel, Docker, Postman, VS Code
+* **DevOps / Tools:** GitHub Actions, Vercel, Docker, VS Code
   
 * **Testing:** Jest, React Testing Library
 
