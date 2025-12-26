@@ -28,9 +28,9 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
 
 * Frontend development with **React**, **Vite**, modern JavaScript (ES6+).
   
-* Testing: **Jest**, **React Testing Library**, **Cypress** (E2E).
+* Testing: **Vitest**, **React Testing Library**.
 
-* CI/CD & deployments: GitHub Actions, Vercel, Docker.
+* CI/CD & deployments: Build & Deploy React Vite Website on Github Pages.
   
 * Accessibility, SEO basics, performance tuning.
 
@@ -40,9 +40,9 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
 
 * **Frontend:** HTML&CSS, JavaScript, TypeScript, React.js & Vite
   
-* **DevOps / Tools:** GitHub Actions, Vercel, Docker, VS Code
+* **DevOps / Tools:** GitHub Actions, Github Pages, VS Code
   
-* **Testing:** Jest, React Testing Library
+* **Testing:** Vitest, React Testing Library
 
 ---
 
