@@ -6,16 +6,6 @@ A Frontend Engineer who loves turning UI ideas into fast, reliable products. I s
 
 ---
 
-## 📊 Stats & badges
-
-[![GitHub followers](https://img.shields.io/github/followers/alhiane-pro?label=follow\&style=social)](https://github.com/alhiane-pro)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhiane-pro\&layout=compact)](https://github.com/alhiane-pro)
-
-[![Lahcen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhiane-pro&show_icons=true&theme=default)](https://github.com/alhiane-pro)
-
----
-
 ## 🚀 About Me
 
 I build responsive, accessible, and well-tested user interfaces with **React** and **Vite**.
