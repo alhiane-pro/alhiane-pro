@@ -40,7 +40,7 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
 
 * **tanstack-notes-app** — [Github Repo](https://github.com/alhiane-pro/tanstack-notes-app) — [Vercel Demo](https://tanstack-notes-app.vercel.app/).
   
-* **our-eCom** — [Github Repo](https://github.com/alhiane-pro/our-eCome)
+* **our-eCom** — [Github Repo](https://github.com/alhiane-pro/our-eCome) — [YouTube Demo](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
   
 * **project-name-3** — One‑line: what it does + tech used + measurable result (if any).
 
