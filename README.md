@@ -44,6 +44,8 @@ My focus: **quality** — unit & integration tests, E2E tests, CI/CD and reliabl
   
 * **tanstack-todo-list-app** — [Github Repo](https://github.com/alhiane-pro/tanstack-todo-list-app) — [Vercel Demo](https://tanstack-todo-list-app.vercel.app/)
 
+* **our-blog** — [Github Repo](https://github.com/alhiane-pro/our-blog) — [Vercel Demo](https://youtu.be/EyErpb0FoB8?si=LqdOr7OYlUmbI6La)
+
 ---
 
 ## 🧠 How I approach projects
